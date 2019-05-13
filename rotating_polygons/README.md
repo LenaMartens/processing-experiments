@@ -3,4 +3,4 @@ Three parameters: amounts of points in a polygon, amount of replications of poly
 
 Result after plotting 5-gon replicated 9 times replicated 23 times:
 
-![Result after running .pde](./plotted_5_9.jpg)
+![Result after running .pde](./plotted.jpg)
